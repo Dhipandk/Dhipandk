@@ -1,5 +1,18 @@
 # 💫 About Me:
-I am Dhipankarthik E, an aspiring Artificial Intelligence and Data Science professional currently pursuing a B.Tech at Chennai Institute of Technology, with a CGPA of 9.00 . My journey in technology has been marked by hands-on experience in product testing and web application development during my internship at VRARRI, a Japanese AR/VR company. I developed a chat application, "NihonGo," which facilitates real-time translation between English and Japanese, showcasing my skills in Python, React, and Flask.<br><br>I have a strong background in problem-solving, having tackled over 225 problems on LeetCode and 600+ on Skillrack. I am proficient in various technologies, including TensorFlow, PyTorch, and database management with MySQL. Additionally, I hold certifications in AI, cybersecurity, and data analytics.<br><br>I am passionate about leveraging technology to bridge language barriers and enhance user experiences. Currently, I am looking to collaborate on innovative projects that push the boundaries of AI and contribute to meaningful solutions in the tech space.
+👋 I'm Dhipankarthik E, a passionate B.Tech student specializing in Artificial Intelligence and Data Science at Chennai Institute of Technology (CGPA: 9.04). I thrive in creating innovative projects and solving complex problems using tech! 🚀<br><br>
+
+👨‍💻 I'm currently working on:<br>
+Developing cutting-edge projects in Web App Development and AR/VR Testing 🌐<br>
+Exploring advanced Generative AI Models for text summarization 🧠<br><br>
+🤝 Looking to collaborate on:<br>
+AI-based solutions, Web Applications, and Mixed Reality (MR) projects.<br>
+Open-source contributions in AI, Cybersecurity, and Generative AI.<br><br>
+📚 I'm currently learning:<br>
+Cybersecurity, Cloud Computing, and Japanese Language Proficiency 🇯🇵<br>
+Enhancing my skills in Machine Learning, TensorFlow, and PyTorch.<br><br>
+💡 Ask me about:<br>
+Building real-time chat applications with translation features (like my project: NihonGo) 💬<br>
+My experiences in AI, AR/VR, and Web Development.<br><br>
 
 
 ## 🌐 Socials:
