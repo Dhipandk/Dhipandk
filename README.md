@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Dhipankarthik E, a passionate B.Tech student specializing in Artificial Intelligence and Data Science at Chennai Institute of Technology (CGPA: 9.04). I thrive in creating innovative projects and solving complex problems using tech! 🚀<br><br>
+👋 I'm Dhipankarthik E, a passionate B.Tech student specializing in Artificial Intelligence and Data Science at Chennai Institute of Technology (CGPA: 9.00). I thrive in creating innovative projects and solving complex problems using tech! 🚀<br><br>
 
 👨‍💻 I'm currently working on:<br>
 Developing cutting-edge projects in Web App Development and AR/VR Testing 🌐<br>
